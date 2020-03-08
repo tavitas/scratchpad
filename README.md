@@ -1,2 +1,2 @@
 # scratchpad
-random javascript - mostly freecodecamp exercises
+random javascript snippets - mostly freecodecamp exercises
